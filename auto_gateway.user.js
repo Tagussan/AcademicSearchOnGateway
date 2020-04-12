@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name     Google_Scholar_on_UTokyo_gateway
 // @version  1
-// @include  https://scholar.google.com/*
+// @include  https://scholar.google*
 // @grant    none
 // This software is released under the MIT License, see LICENSE.
 // ==/UserScript==
