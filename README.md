@@ -7,7 +7,7 @@ Google Scholarのページのリンクを自動的に書き換え、UTokyo SSL-V
 1. お使いのブラウザに[Tampermonkey](https://www.tampermonkey.net/)を入れて有効化してください。Chrome, Microsoft Edge, Safari, Opera, Firefox等に対応しています。
 1. [こちらのリンク](https://raw.githubusercontent.com/Tagussan/GoogleScholarOnUTokyoGateway/master/auto_gateway.user.js)をクリックして下さい。表示されたTampermonkeyの画面に従い、スクリプトをインストールして下さい。インストール自体は一瞬で完了します。
 もし上記リンクをクリックして単なるテキストが表示された場合は、Tampermonkeyが入っていないか、有効化されていません。
-1. 正常にインストールされていれば、Google Scholarにアクセスすると検索結果に出てくるリンクが自動的に書き換わります。必要に応じてGatewayにログインして下さい。
+1. 正常にインストールされていれば、Google Scholarの検索結果に出てくるリンクが自動的に書き換わります。必要に応じてGatewayにログインして下さい。
 
 ## 注意事項
 - 自己責任でお使い下さい。
