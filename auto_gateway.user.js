@@ -3,6 +3,7 @@
 // @version  1
 // @include  https://scholar.google.com/*
 // @grant    none
+// This software is released under the MIT License, see LICENSE.
 // ==/UserScript==
 
 function get_gateway_url(url){
