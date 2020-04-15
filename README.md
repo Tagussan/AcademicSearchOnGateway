@@ -17,4 +17,5 @@ Google Scholarのページのリンクを自動的に書き換え、UTokyo SSL-V
 Released under the MIT license
 
 ## 更新履歴
-First published on 2020/04/12
+- First published on 2020/04/12
+- [新しいVPN Gatewayサービス](https://twitter.com/gacos_utokyo/status/1250342624734507010)が公開されたので対応しました。(2020/4/15)

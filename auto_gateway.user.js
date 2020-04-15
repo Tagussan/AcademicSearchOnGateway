@@ -8,7 +8,7 @@
 
 function get_gateway_url(url){
   const url_obj = new URL(url);
-  return 'https://gateway.itc.u-tokyo.ac.jp' + url_obj.pathname + url_obj.search + ',DanaInfo=' + url_obj.hostname;
+  return 'https://gateway2.itc.u-tokyo.ac.jp' + url_obj.pathname + url_obj.search + ',DanaInfo=' + url_obj.hostname;
 }
 
 (function() {
