@@ -3,6 +3,10 @@
 ## 概要
 Google Scholarのページのリンクを自動的に書き換え、UTokyo SSL-VPN Gateway経由でのアクセスにするためのウェブブラウザ用プラグインです。[東京大学情報基盤センターが公開している内容に基づいて](https://www.sodan.ecc.u-tokyo.ac.jp/hack/search-engine-via-ssl-vpn/)書き換えを行っています。Tampermonkeyと呼ばれる、ユーザーが定義したjavascriptをページに追加で適用するソフトウェアを使っています。
 
+### 他の大学一覧
+有志の方が他大学にも移植して下さっています。自大学でもご希望の方はTwitter @tagsanovまでご連絡いただければお手伝いできるかも知れません。
+- 大阪大学 by obameyanさん https://github.com/obameyan/GoogleScholarOnOsakaUnivLibrary
+
 ## 使い方
 1. お使いのブラウザに[Tampermonkey](https://www.tampermonkey.net/)を入れて有効化してください。Chrome, Microsoft Edge, Safari, Opera, Firefox等に対応しています。
 2. [こちらのリンク](https://raw.githubusercontent.com/Tagussan/GoogleScholarOnUTokyoGateway/master/auto_gateway.user.js)をクリックして下さい。表示されたTampermonkeyの画面に従い、スクリプトをインストールして下さい。インストール自体は一瞬で完了します。
