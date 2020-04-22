@@ -8,7 +8,11 @@
 
 function get_gateway_url(url){
   const url_obj = new URL(url);
-  return 'https://gateway2.itc.u-tokyo.ac.jp' + url_obj.pathname + url_obj.search + ',DanaInfo=' + url_obj.hostname;
+  if(url.match('arxiv')){
+    return url; //don't use gateway for arxiv
+  } else {
+    return 'https://gateway2.itc.u-tokyo.ac.jp' + url_obj.pathname + url_obj.search + ',DanaInfo=' + url_obj.hostname;
+  }
 }
 
 (function() {
