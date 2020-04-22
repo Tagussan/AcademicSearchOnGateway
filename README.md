@@ -1,4 +1,4 @@
-# AcademicResearchOnGateway
+# AcademicSearchOnGateway
 
 ## 概要
 Google ScholarやMicrosoft Academicなどの論文検索ページのリンクを自動的に書き換え、UTokyo SSL-VPN Gateway経由でのアクセスにするためのウェブブラウザ用プラグインです。[東京大学情報基盤センターが公開している内容に基づいて](https://www.sodan.ecc.u-tokyo.ac.jp/hack/search-engine-via-ssl-vpn/)書き換えを行っています。Tampermonkeyと呼ばれる、ユーザーが定義したjavascriptをページに追加で適用するソフトウェアを使っています。
