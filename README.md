@@ -1,7 +1,9 @@
 # AcademicSearchOnGateway
 
+[English version is here](https://github.com/Tagussan/AcademicSearchOnGateway/blob/master/README_en.md)
+
 ## 概要
-Google ScholarやMicrosoft Academicなどの論文検索ページのリンクを自動的に書き換え、UTokyo SSL-VPN Gateway経由でのアクセスにするためのウェブブラウザ用プラグインです。[東京大学情報基盤センターが公開している内容に基づいて](https://www.sodan.ecc.u-tokyo.ac.jp/hack/search-engine-via-ssl-vpn/)書き換えを行っています。Tampermonkeyと呼ばれる、ユーザーが定義したjavascriptをページに追加で適用するソフトウェアを使っています。
+Google ScholarやMicrosoft Academicなどの論文検索ページのリンクを自動的に書き換え、UTokyo SSL-VPN Gateway経由でのアクセスにするためのウェブブラウザ用プラグインです。大学のネットワークからアクセスしているのと同様に、自宅など他の場所からでも簡単に論文を探すことが出来ます。[東京大学情報基盤センターが公開している内容に基づいて](https://www.sodan.ecc.u-tokyo.ac.jp/hack/search-engine-via-ssl-vpn/)書き換えを行っています。Tampermonkeyと呼ばれる、ユーザーが定義したjavascriptをページに追加で適用するソフトウェアを使っています。
 
 ### 他の大学一覧
 有志の方が他大学にも移植して下さっています。自大学でもご希望の方はTwitter @tagsanovまでご連絡いただければお手伝いできるかも知れません。
@@ -27,3 +29,4 @@ Released under the MIT license
 - First published on 2020/04/12
 - [新しいVPN Gatewayサービス](https://twitter.com/gacos_utokyo/status/1250342624734507010)が公開されたので対応しました。(2020/4/15)
 - 他大学一覧を加えました。大阪大学のリンクを追加 (2020/4/16)
+- Added English README (2021/05/24)
