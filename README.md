@@ -29,4 +29,4 @@ Released under the MIT license
 - First published on 2020/04/12
 - [新しいVPN Gatewayサービス](https://twitter.com/gacos_utokyo/status/1250342624734507010)が公開されたので対応しました。(2020/4/15)
 - 他大学一覧を加えました。大阪大学のリンクを追加 (2020/4/16)
-- Added English README (2021/05/24)
+- [Added English README](https://github.com/Tagussan/AcademicSearchOnGateway/blob/master/README_en.md) (2021/05/24)
