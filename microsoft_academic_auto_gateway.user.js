@@ -11,7 +11,7 @@ function get_gateway_url(url){
   if(url.match('arxiv')){
     return url; //don't use gateway for arxiv
   } else {
-    return 'https://gateway2.itc.u-tokyo.ac.jp' + url_obj.pathname + url_obj.search + ',DanaInfo=' + url_obj.hostname;
+    return 'https://' + url_obj.hostname.replace(/\./g, '-') + '.utokyo.idm.oclc.org' + url_obj.pathname + url_obj.search;
   }
 }
 
