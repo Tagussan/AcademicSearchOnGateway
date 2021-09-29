@@ -13,8 +13,8 @@ Google ScholarやMicrosoft Academicなどの論文検索ページのリンクを
 1. お使いのブラウザに[Tampermonkey](https://www.tampermonkey.net/)を入れて有効化してください。Chrome, Microsoft Edge, Safari, Opera, Firefox等に対応しています。
 2. 下記のリンクをクリックして下さい。表示されたTampermonkeyの画面に従い、スクリプトをインストールして下さい。インストール自体は一瞬で完了します。いくつでも同時にインストールできます。
 もしリンクをクリックして単なるテキストが表示された場合は、Tampermonkeyが入っていないか、有効化されていません。
-  - [Google Scholarはこちら](https://raw.githubusercontent.com/Tagussan/GoogleScholarOnUTokyoGateway/master/google_scholar_auto_gateway.user.js)
-  - [Microsoft Academicはこちら](https://raw.githubusercontent.com/Tagussan/GoogleScholarOnUTokyoGateway/master/microsoft_academic_auto_gateway.user.js)
+  - [Google Scholarはこちら](https://raw.githubusercontent.com/Tagussan/GoogleScholarOnUTokyoGateway/dev/ezproxy/google_scholar_auto_gateway.user.js)
+  - [Microsoft Academicはこちら](https://raw.githubusercontent.com/Tagussan/GoogleScholarOnUTokyoGateway/dev/ezproxy/microsoft_academic_auto_gateway.user.js)
 3. 正常にインストールされていれば、Google Scholarの検索結果に出てくるリンクやMicrosoft Academicの外部リンクが自動的に書き換わります。必要に応じてGatewayにログインして下さい。
 
 ## 注意事項
