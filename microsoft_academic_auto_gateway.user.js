@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name     Microsoft_Academic_on_UTokyo_gateway
-// @version  1
+// @version  2
 // @include  https://academic.microsoft*
 // @grant    none
 // This software is released under the MIT License, see LICENSE.

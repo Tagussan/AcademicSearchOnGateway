@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name     Google_Scholar_on_UTokyo_gateway
-// @version  1
+// @version  2
 // @include  https://scholar.google*
 // @grant    none
 // @require  https://code.jquery.com/jquery-3.5.0.slim.min.js
