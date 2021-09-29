@@ -15,10 +15,12 @@ If you see just a text when you click these links, it means that Tampermonkey is
 - [For Microsoft Academic](https://raw.githubusercontent.com/Tagussan/GoogleScholarOnUTokyoGateway/master/microsoft_academic_auto_gateway.user.js)
 3. If the plugin is installed successfully, the links that appear in the search result of Google Scholar or Microsoft Academic are automatically modified. Log in to the Gateway as necessary.
 
+## How to update
+To update the plugin, just click the links again in the "How to use 2.".
+
 ## Notice
 - Please use this at your own risk.
 - Sometimes this plugin fails to rewrite. In this case, please disable the script from Tampermonkey and access the link manually.
-- To update the plugin, just click the links again in the "How to use 2.".
 
 ## License
 Released under the MIT License

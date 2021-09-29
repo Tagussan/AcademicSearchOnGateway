@@ -17,10 +17,12 @@ Google ScholarやMicrosoft Academicなどの論文検索ページのリンクを
   - [Microsoft Academicはこちら](https://raw.githubusercontent.com/Tagussan/GoogleScholarOnUTokyoGateway/master/microsoft_academic_auto_gateway.user.js)
 3. 正常にインストールされていれば、Google Scholarの検索結果に出てくるリンクやMicrosoft Academicの外部リンクが自動的に書き換わります。必要に応じてGatewayにログインして下さい。
 
+## アップデート方法
+上記のリンクをクリックして出てくる画面で「更新」を押してください。アップデートは一瞬で完了します。
+
 ## 注意事項
 - 自己責任でお使い下さい。
 - たまに失敗するリンクがあります。その場合はTampermonkeyから一旦スクリプトを無効にし、手動でアクセスして下さい。
-- プラグインを更新する場合、使い方2. のリンクをクリックすると再インストールすることができます。
 
 ## ライセンス
 Released under the MIT license
