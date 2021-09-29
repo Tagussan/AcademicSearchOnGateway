@@ -30,4 +30,4 @@ Released under the MIT license
 - [新しいVPN Gatewayサービス](https://twitter.com/gacos_utokyo/status/1250342624734507010)が公開されたので対応しました。(2020/4/15)
 - 他大学一覧を加えました。大阪大学のリンクを追加 (2020/4/16)
 - [Added English README](https://github.com/Tagussan/AcademicSearchOnGateway/blob/master/README_en.md) (2021/05/24)
-- [EZproxy](https://www.lib.u-tokyo.ac.jp/ja/library/literacy/user-guide/campus/offcampus/ezproxy)に対応しました。現行のSSL-VPN Gatewayは年度末までの提供となるので、こちらのプラグインをアップデートし、EZproxyへの移行をお願いします。(2021/09/29)
+- [EZproxy](https://www.lib.u-tokyo.ac.jp/ja/library/literacy/user-guide/campus/offcampus/ezproxy)に対応しました。現行のSSL-VPN Gatewayは年度末までの提供となり、古いバージョンのプラグインは利用できなくなります。プラグインをアップデートし、EZproxyへの移行をお願いします。(2021/09/29)

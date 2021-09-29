@@ -1,7 +1,7 @@
 # AcademicSearchOnGateway
 
 ## TL;DR
-This is a browser plugin that rewrites URL links in the result of academic search engines such as Google Scholar and Microsoft Academic. The new URL redirects the page so that its access is through UTokyo SSL-VPN Gateway. You can easily search for papers from other locations, such as your home, just as if you were accessing them from your university network. The rewrite rule is based on [the procedure published by the Information Technology Center The University of Tokyo](https://www.sodan.ecc.u-tokyo.ac.jp/hack/search-engine-via-ssl-vpn/). This plugin uses 'Tampermonkey', a software that applies user-defined javascript on web pages.
+This is a browser plugin that rewrites URL links in the result of academic search engines such as Google Scholar and Microsoft Academic. The new URL redirects the page so that its access is through UTokyo SSL-VPN Gateway. You can easily search for papers from other locations, such as your home, just as if you were accessing them from your university network. This plugin uses 'Tampermonkey', a software that applies user-defined javascript on web pages.
 
 ### Other universities
 Some volunteers customize this script for other universities. If you wish to use this plugin in your university, please make a contact to @tagsanov on Twitter. I may help you.
@@ -29,3 +29,4 @@ Released under the MIT License
 - [New VPN Gateway service](https://twitter.com/gacos_utokyo/status/1250342624734507010) was published and now available in this plugin(2020/4/15)
 - Added the section Other universities. Added the links to the Osaka University (2020/4/16)
 - Added English README (2021/05/24)
+- Now this plugin uses [EZproxy](https://www.lib.u-tokyo.ac.jp/en/library/literacy/user-guide/campus/offcampus/ezproxy). The current SSL-VPN Gateway service will be over at the end of the fiscal year, and the old version of this plugin will be unavailable. Please update this plugin and switch to EZproxy. (2021/09/29)
