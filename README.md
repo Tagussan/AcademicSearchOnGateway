@@ -6,7 +6,7 @@
 Google ScholarやMicrosoft Academicなどの論文検索ページのリンクを自動的に書き換え、UTokyo SSL-VPN Gateway経由でのアクセスにするためのウェブブラウザ用プラグインです。大学のネットワークからアクセスしているのと同様に、自宅など他の場所からでも簡単に論文を探すことが出来ます。Tampermonkeyと呼ばれる、ユーザーが定義したjavascriptをページに追加で適用するソフトウェアを使っています。
 
 ### 他の大学一覧
-有志の方が他大学にも移植して下さっています。自大学でもご希望の方はTwitter @tagsanovまでご連絡いただければお手伝いできるかも知れません。
+有志の方が他大学にも移植して下さっています。
 - 大阪大学 by obameyanさん https://github.com/obameyan/GoogleScholarOnOsakaUnivLibrary
 
 ## 使い方
